@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+img {
+    background-color: #ee6442;
+    padding: 7px;
+}
+
+a {
+    font-family: Helvetica, sans-serif;
+    color: #ec4e77;
+    padding-left: 15%;
+
+}
+
+h6 {
+    font-family: Helvetica, sans-serif;
+    font-size: 120%;
+    font-weight: 600;
+    color: #ec4e77; 
+}
+
+h1 {
+    font-family: Helvetica, sans-serif;
+    color: #ec4e77;
+    padding-left: 0%;
+
+}
+
+h2 {
+    font-family: Helvetica, sans-serif;
+    color: #52a44f;
+    padding-left: 5%;
+}
+
+h3 {
+    font-family: Helvetica, sans-serif;
+    color: #ee6442;
+    padding-left: 10%;
+}
+
+h4 {
+    font-family: Helvetica, sans-serif;
+    color: #ec4e77;
+    padding-left: 15%;
+}
+
+p {
+    font-family: Helvetica, sans-serif;
+    color: #ee6442;
+    padding-left: 20%;
+}
+ul {
+    font-family: Helvetica, sans-serif;
+    font-weight: 800;
+    color: #ee6442;
+    padding-left: 20%;
+}
+li {
+    font-family: Helvetica, sans-serif;
+    font-weight: 800;
+    color: #ee6442;
+}
